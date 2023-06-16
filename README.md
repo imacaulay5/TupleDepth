@@ -1,2 +1,2 @@
 # TupleDepth
-Function that counts the maximum amount of embedded tuples, within any given tuple. Practice use of embedded for loops, if-then statements, function definitions and break statements
+A function that counts the maximum number of embedded tuples, within any given tuple. Practice the use of embedded for loops, if-then statements, function definitions, and break statements
